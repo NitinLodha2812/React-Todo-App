@@ -1,3 +1,5 @@
+<img src="1.png" alt="screenshot">
+
 ## Getting Started
 
 1. Clone or download the project.
